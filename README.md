@@ -1,13 +1,11 @@
-# 👋 Hi, I’m Ajibare Babajide  
+# 👋 Hi, I’m Ajibare Babajide Blessing
 
 💻 **Full-Stack JavaScript Developer** | 🚀 Passionate about building scalable web apps and solving real-world problems with clean code.  
 🌍 Open to global opportunities in **Frontend, Backend, and Full-Stack Development**.  
 
----
-
-## 🚀 About Me  
+## ✨ About Me  
 - 🎓 Certified **IBM Full-Stack JavaScript Developer**  
-- 🛠️ Skilled in **React, Node.js, Express, Git, GitHub, HTML, CSS, JavaScript**  
+- 🛠️ Skilled in **React, Next, Node.js, Express, Git, GitHub, HTML, CSS, JavaScript**  
 - ⚙️ Familiar with **NoSQL (MongoDB), SQL, Docker, Kubernetes, OpenShift, CI/CD, Microservices & Serverless**  
 - 📚 Always learning and exploring modern tech to deliver quality software  
 - 🤝 Open to collaborations, freelance projects, and job opportunities  
@@ -36,10 +34,36 @@
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajibare&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajibare&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajibare&theme=tokyonight" alt="GitHub Streak Stats" height="180"/>
+</p>
+
+---
+
+## ⚡ Interactive Section  
+
+### ⌨️ Typing Intro  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&lines=Hi+I'm+Ajibare+Babajide+Blesssing;Full+Stack+JavaScript+Developer;React+%7C+Node.js+%7C+Express;Open+to+Remote+Opportunities)](https://git.io/typing-svg)
+
+### 📈 Activity Graph  
+[![Ajibare's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajibare&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 👀 Visitor Counter  
+![Visitor Count](https://komarev.com/ghpvc/?username=Ajibare&label=Profile%20Views&color=blue&style=flat)
+
+---
+
 ## 📌 Featured Projects  
 - 🏥 **Health Monitoring Dashboard** – A global telemedicine platform integrating wearable devices (React + Node.js + MongoDB)  
 - 💳 **Cardily** – Digital card management web app (React + Express)  
-- 📊 **Zillstate** – Stock market investment dashboard  
+- 📊 **Zillstate** – RealEstate project dashboard  
 
 👉 Explore more: [My Repositories](https://github.com/Ajibare)  
 
@@ -47,9 +71,10 @@
 
 ## 📫 Let’s Connect  
 📧 Email: **babajideajibare@gmail.com**  
-💼 LinkedIn: [linkedin.com/in/ajibare-babajide](#)  
-🌍 Portfolio: [Your Portfolio Link](#)  
+💼 LinkedIn: [linkedin.com/in/ajibare-babajide-94452a248](https://www.linkedin.com/in/ajibare-babajide-94452a248/)  
+🌍 Portfolio: [portfolio-bay-seven-73.vercel.app](https://portfolio-bay-seven-73.vercel.app/)  
+🐙 GitHub: [github.com/Ajibare](https://github.com/Ajibare)  
 
 ---
 
-✨ *"Code is not just about solving problems — it’s about creating possibilities."*<img width="521" height="405" alt="certified" src="https://github.com/user-attachments/assets/486fd4be-498b-4a8b-ba02-901b4dc170f6" />
+✨ *"Code is not just about solving problems — it’s about creating possibilities."*  
