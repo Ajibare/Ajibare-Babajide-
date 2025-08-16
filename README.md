@@ -41,7 +41,7 @@
 - 💳 **Cardily** – Digital card management web app (React + Express)  
 - 📊 **Zillstate** – Stock market investment dashboard  
 
-👉 Explore more: [My Repositories](https://github.com/yourusername)  
+👉 Explore more: [My Repositories](https://github.com/Ajibare)  
 
 ---
 
